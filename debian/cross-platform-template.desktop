@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=web-desktop template
+Name[fr]=Model pour web-desktop
+Comment=Description Here
+Comment[fr]=Translation Here
+Exec=/usr/bin/cross-platform-template
+Icon=cross-platform-template
+Categories=GTK;GNOME;Education;
+Terminal=false

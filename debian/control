@@ -1,0 +1,15 @@
+Source: cross-platform-template
+Section: sound
+Priority: optional
+Maintainer: Greg Trihus <greg_trihus@sil.org>
+Build-Depends: libsecret-1-dev
+Standards-Version: 4.5.0
+Homepage: https://www.sil.org
+Vcs-Git: git://github.com/sillsdev/cross-platform-template.git
+Vcs-Browser: http://github.com/sillsdev/cross-platform-template/
+
+Package: cross-platform-template
+Architecture: all
+Depends: xchm
+Recommends:
+Description: A template for web and desktop apps
